@@ -1,0 +1,62 @@
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 80%;
+	color: #175A3B;
+}
+
+A:link
+	{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #175A3B;
+	text-decoration: underline;
+	font-weight: bold;
+	}
+
+A:visited
+	{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #175A3B;
+	text-decoration: underline;
+	font-weight: bold;
+	}
+
+A:active
+	{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #175A3B;
+	text-decoration: underline;
+	font-weight: bold;
+	}
+
+h2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 140%;
+	font-weight: bold;
+	color: #175A3B;
+}
+
+table.myynti {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 80%;
+	padding: 5px;   
+	border: 1px solid #51846C;
+	background-color: #FFFFFF;
+}
+
+td.teksti {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 80%;
+	padding: 5px;   
+	border: 1px solid #51846C;
+	background-color: #FFFFFF;
+}
+
+td.yhteys {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 80%;
+	padding: 5px;   
+	border: 1px solid #51846C;
+	background-color: #FFFFFF;
+}
+
+
